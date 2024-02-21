@@ -2,7 +2,7 @@ COPY NODES KEYFRAMES - Blender Addon
 
 Duplicate any node with keyframes. Are you tired of copying any node, and have to manually copy and paste the keyframes? You will save a lot of time with Copy Nodes Keyframes. 
 
-Support for Blender 4.x.
+Support for Blender 3.3 +
 
 - Duplicate any node with keyframes.
 - Duplicate selected nodes (all at once). 
