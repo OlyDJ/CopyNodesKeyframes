@@ -7,11 +7,6 @@ Support for Blender 3.3 +
 - Duplicate any node with keyframes.
 - Duplicate selected nodes (all at once). 
 - Duplicate any group with keyframes.
-- (Experimental) Option to move new node with mouse (Similar to "Duplicate" native Blender option).
-
-Known Issues
-
-- Keyframes on Colors (like Color Ramp) have a bug where keyframes are created, but color values in some keyframes is wrong. It will be fixed in next release. (BTW, even with that you will save a lot of time)
 
 Why I created CNK?
 
